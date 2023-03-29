@@ -3,6 +3,7 @@ Performive LLC
 Incx Global LLC
 Gmo Internet
 Highwinds Network Group Inc.
+Highwinds Network Group Inc
 Rain Networks (Pty) Ltd
 Uk Dedicated Servers Limited
 Google LLC
@@ -50,6 +51,7 @@ Palo Alto Networks
 Quadranet Enterprises LLC	
 Censys Inc.	
 amazon.com, Inc	
+Amazon.com, Inc.
 crawler	
 vultr.com	
 msnbot

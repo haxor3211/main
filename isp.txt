@@ -75,7 +75,9 @@ Ovh Sas
 Top Level Hosting Srl
 amazon.com Inc.	
 Hostroyale LLC	
-Security Firewall Ltd	
+
+
+
 Nanyang Technological University
 Zscaler Inc.
 Datacamp Limited	
@@ -1465,6 +1467,9 @@ YottaaMonitor
 Your-Website-Sucks
 yourls\.org
 YoYs\.net
+Security Firewall Ltd
+Almouroltec Servicos De Informatica E Internet LDA
+	M247 Ltd
 YP\.PL
 Zabbix
 Zade

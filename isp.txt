@@ -1513,3 +1513,4 @@ extractor
 monitoring
 analyzer
 scraper
+a-z0-9\-_

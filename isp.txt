@@ -1,6 +1,8 @@
 Palo Alto Networks
 Webline Services
 BH Telecom d.d. Sarajevo
+HostRoyale Technologies Pvt Ltd
+HostRoyale Technologies
 Chroot Network SRL
 PlusNet plc
 1&1 IONOS SE
@@ -8,6 +10,9 @@ Virgin Media
 OVH SAS
 Hetzner Online GmbH
 HostRoyale Technologies
+Tahoe Internet Exchange (TahoeIX)
+gae.googleusercontent.com
+Level 3 Communications, Inc.
 Colocrossing
 Performive LLC
 Incx Global LLC

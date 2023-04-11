@@ -2265,6 +2265,8 @@ Ipcore Datacenters S.L
 Iran Post Company-Tehran DataCenter
 Joe's Datacenter, LLC
 Jordens Datacenter NV
+Amazon Technologies Inc.
+Microsoft Corporation
 Las Vegas NV Datacenter
 LIR DATACENTER TELECOM SRL
 Local Datacenter Solu&#231;&#245;es em Comunica&#231;&#227;o Ltda.

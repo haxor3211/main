@@ -2276,6 +2276,7 @@ NxtGen Datacenter &amp; Cloud Technologies Pvt. Ltd.
 Powerbase DataCenter Services (HK) Ltd.
 RackBank Datacenters Private Ltd
 Teknik i Media Datacenter Stockholm AB
+Palo Alto Networks
 VPS Datacenter, LLC
 VPS Datacenter, LLC
 AS for CDN

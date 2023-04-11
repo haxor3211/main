@@ -2268,6 +2268,7 @@ Jordens Datacenter NV
 Amazon Technologies Inc.
 Microsoft Corporation
 Las Vegas NV Datacenter
+GTT Communications Inc.
 LIR DATACENTER TELECOM SRL
 Local Datacenter Solu&#231;&#245;es em Comunica&#231;&#227;o Ltda.
 MODIT Datacenter Informatikai es Szolgaltato KFT
@@ -2275,6 +2276,8 @@ NAV DATACENTER TELECOM SRL
 NetGate Datacenter ASN
 Netmagic Datacenter Mumbai
 NxtGen Datacenter &amp; Cloud Technologies Pvt. Ltd.
+DigitalOcean
+DigitalOcean, LLC
 Powerbase DataCenter Services (HK) Ltd.
 RackBank Datacenters Private Ltd
 Teknik i Media Datacenter Stockholm AB

@@ -91,6 +91,7 @@ Blazing SEO
 Linode
 Server Plan S.r.l.	
 GoDaddy.com, LLC
+Cogent Communications
 SC Rusnano
 Quasi Networks LTD
 Peak 10
@@ -100,9 +101,6 @@ Ovh Sas
 Top Level Hosting Srl
 amazon.com Inc.	
 Hostroyale LLC	
-
-
-
 Nanyang Technological University
 Zscaler Inc.
 Datacamp Limited	

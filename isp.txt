@@ -9,6 +9,7 @@ PlusNet plc
 1&1 IONOS SE
 Virgin Media
 OVH SAS
+Zenlayer Inc
 Hetzner Online GmbH
 HostRoyale Technologies
 Tahoe Internet Exchange (TahoeIX)

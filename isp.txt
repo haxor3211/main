@@ -2278,7 +2278,12 @@ Fideicomiso de Administraci&#243;n Datacenter Capitalinas
 Forsikringens Datacenter A/S
 HanDS Hanse Datacenter Services GmbH
 China Mobile communications corporation
+ALGAR TELECOM S/A
 INTERNET DATACENTER
+PLUTEX GmbH
+PP "2K Merezha"
+Orion Network Limited
+QuadraNet
 Ipcore Datacenters S.L
 Iran Post Company-Tehran DataCenter
 Joe's Datacenter, LLC

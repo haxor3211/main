@@ -187,6 +187,7 @@ Radore Veri Merkezi Hizmetleri A.S.
 Level 3 Communications
 China Unicom IP network
 China Unicom Beijing Province Network 
+China Unicom Shanghai Province Network
 Censys, Inc.
 Aboundex
 aboutthedomain

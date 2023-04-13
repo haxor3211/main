@@ -2284,6 +2284,7 @@ Joe's Datacenter, LLC
 Jordens Datacenter NV
 Stanford University
 Amazon Technologies Inc.
+ZAIN
 Microsoft Corporation
 Las Vegas NV Datacenter
 GTT Communications Inc.

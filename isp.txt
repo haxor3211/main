@@ -1526,15 +1526,15 @@ Windstream Communications LLC
 FasthostInternet Ltd
 Dianet Ltd.
 VOXILITY, RO
-CENTURYLINK-LEGACY-SAVVIS - Savvis, US
-RAMNODE - RamNode LLC, US
-ALENT-ASN-1 - Alentus Corporation, US
-TWTC - tw telecom holdings, inc., US
-IDC Yahoo Japan Corporation, JP
+CENTURYLINK-LEGACY-SAVVIS - Savvis
+RAMNODE - RamNode LLC
+ALENT-ASN-1 - Alentus Corporation
+TWTC - tw telecom holdings, inc.
+IDC Yahoo Japan Corporation
 ROOT, LU
-STRATO STRATO AG, DE
-H1ASN, RU
-M247, GB
+STRATO STRATO AG
+H1ASN
+M247
 UNIVERSAL CDN (CYPRUS) LTD
 SkyparkCDN Ltd.
 SimpleCDN Technologies, Inc.
@@ -1565,98 +1565,98 @@ Fideicomiso de Administraci&#243;n Datacenter Capitalinas
 Unified Webhosting, LLC
 Entity
 VOXILITY, RO
-CENTURYLINK-LEGACY-SAVVIS - Savvis, US
-RAMNODE - RamNode LLC, US
-ALENT-ASN-1 - Alentus Corporation, US
-TWTC - tw telecom holdings, inc., US
-IDC Yahoo Japan Corporation, JP
-ROOT, LU
-STRATO STRATO AG, DE
-H1ASN, RU
-HURRICANE - Hurricane Electric, Inc., US
-LEASEWEB-USA-SFO-12 - Leaseweb USA, Inc., US
-HOSTUS-GLOBAL-AS HostUS, HK
-INTERQ GMO Internet,Inc, JP
-CITYLINKFIBER - iHighway.net, Inc., US
-SERVERS - Servers.com, Inc., US
-MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
-ASN-QUADRANET-GLOBAL - QuadraNet, Inc, US
-ATOM86-AS ATOM86, NL
-ONEANDONE-AS Brauerstrasse 48, DE
-PLUSSERVER-AS, DE
-M247, GB
-SAKURA-B SAKURA Internet Inc., JP
-ENET-2 - eNET Inc., US
-CARINET - CariNet, Inc., US
-NETELLIGENT - Netelligent Hosting Services Inc., CA
-HIGHWINDS - Highwinds Network Group, Inc., US
-ESECUREDATA - eSecureData, CA
-TZULO - tzulo, inc., US
-ASGHOSTNET, DE
-AS12876, FR
-HWNG, NL
-UK2NET-AS, GB
-DATACENTER-IP - Datacenter IP, LLC, US
-RBLHST-NY - Strong Technology, LLC., US
-DIGITALOCEAN-ASN - Digital Ocean, Inc., US
-ILAND - Iland Internet Solutions Corporation, US
-AMAZON-AES - Amazon.com, Inc., US
-NOBIS-TECH - Nobis Technology Group, LLC, US
-INFOLINK-MIA-US - Infolink Global Corporation, US
-GOOGLE - Google Inc., US
-RACKSPACE-LON, GB
-COLOCALL Internet Data Center ColoCALL, UA
-CWCS-PS, GB
-ITLAS, UA
-IDH, ES
-CHERRYSERVERS1-AS, LT
-DELTA-LTD-AS, RU
-OVH, FR
-UNSPECIFIED, NG
-EQUINIX BRASIL SP, BR
-AMAZON-02 - Amazon.com, Inc., US
-DEDICATED-FIBER-COMMUNICATIONS - DedFiberCo, US
-DC74-AS - DC74 LLC, US
-WEBNX - WebNX, Inc., US
-EGIHOSTING - EGIHosting, US
-ENZUINC-US - Enzu Inc, US
-COLOUP - ColoUp, US
-NJIIX-AS-1 - NEW JERSEY INTERNATIONAL INTERNET EXCHANGE LLC,
-SS-ASH - SECURED SERVERS LLC, US
-NODESDIRECT - Nodes Direct, US
-SERVERROOM - Data Room, Inc, US
-GORACK - GoRack LLC, US
-NETWORK-SOLUTIONS-HOSTING - Network Solutions, LLC, US
-JOESDATACENTER - Joe's Datacenter, LLC, US
-LNH-INC - HostMySite, US
+CENTURYLINK-LEGACY-SAVVIS - Savvis
+RAMNODE - RamNode LLC
+ALENT-ASN-1 - Alentus Corporation
+TWTC - tw telecom holdings, inc.
+IDC Yahoo Japan Corporation
+ROOT
+STRATO STRATO AG
+H1ASN
+HURRICANE - Hurricane Electric, Inc.
+LEASEWEB-USA-SFO-12 - Leaseweb USA, Inc.
+HOSTUS-GLOBAL-AS HostUS
+INTERQ GMO Internet,Inc
+CITYLINKFIBER - iHighway.net, Inc.
+SERVERS - Servers.com, Inc.
+MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation
+ASN-QUADRANET-GLOBAL - QuadraNet, Inc
+ATOM86-AS ATOM86
+ONEANDONE-AS Brauerstrasse 48
+PLUSSERVER-AS
+M247
+SAKURA-B SAKURA Internet Inc.
+ENET-2 - eNET Inc.
+CARINET - CariNet, Inc.
+NETELLIGENT - Netelligent Hosting Services Inc.
+HIGHWINDS - Highwinds Network Group, Inc.
+ESECUREDATA - eSecureData
+TZULO - tzulo, inc.
+ASGHOSTNET
+AS12876
+HWNG
+UK2NET-AS
+DATACENTER-IP - Datacenter IP, LLC
+RBLHST-NY - Strong Technology, LLC.
+DIGITALOCEAN-ASN - Digital Ocean, Inc.
+ILAND - Iland Internet Solutions Corporation
+AMAZON-AES - Amazon.com, Inc.
+NOBIS-TECH - Nobis Technology Group, LLC
+INFOLINK-MIA-US - Infolink Global Corporation
+GOOGLE - Google Inc.
+RACKSPACE-LON
+COLOCALL Internet Data Center ColoCALL
+CWCS-PS
+ITLAS
+IDH
+CHERRYSERVERS1-AS
+DELTA-LTD-AS
+OVH
+UNSPECIFIED
+EQUINIX BRASIL SP
+AMAZON-02 - Amazon.com, Inc.
+DEDICATED-FIBER-COMMUNICATIONS - DedFiberCo
+DC74-AS - DC74 LLC
+WEBNX - WebNX, Inc.
+EGIHOSTING - EGIHosting
+ENZUINC-US - Enzu Inc
+COLOUP - ColoUp
+NJIIX-AS-1 - NEW JERSEY INTERNATIONAL INTERNET EXCHANGE LLC
+SS-ASH - SECURED SERVERS LLC
+NODESDIRECT - Nodes Direct
+SERVERROOM - Data Room, Inc
+GORACK - GoRack LLC
+NETWORK-SOLUTIONS-HOSTING - Network Solutions, LLC
+JOESDATACENTER - Joe's Datacenter, LLC
+LNH-INC - HostMySite
 WEBAIR-INTERNET-2 - Webair Internet Development Company Inc.
-SSASN2 - SECURED SERVERS LLC, US
-AS-CHOOPA - Choopa, LLC, US
+SSASN2 - SECURED SERVERS LLC
+AS-CHOOPA - Choopa, LLC
 CYBERSPACE-AS Autonomous System number for Cyber Space, IL
-AS20738, GB
-HOSTEUROPE-AS, DE
-CDLAN-AS Milano, IT
-IOMART-AS, GB
-ITLDC-NL, UA
-NOVOSERVE-GMBH-AS Frankfurt, Germany, NL
-ARETI-AS, GB
-ZNET - Zenlayer Inc, US
-PHMGMT-AS1 - Powerhouse Management, Inc., US
-ESITED - eSited Solutions, US
-RBLHST - Strong Technology, LLC., US
-WOW - Wowrack.com, US
-UNITEDLAYER - Unitedlayer, Inc., US
-SERVERCENTRAL - Server Central Network, US
-SGGS-AS-AP SG.GS, SG
-ALMOUROLTEC, PT
-NOVOSERVE-AS, NL
-HETZNER-AS, DE
-MYLOC-AS, DE
-MASTER-AS Czech Republic / www.master.cz, CZ
-NG-NIGERIA-AS, NG
-BANDWIDTH-AS, GB
-PEKITEL-AS, RU
-HUGESERVER-NETWORKS - HugeServer Networks, LLC, US
+AS20738
+HOSTEUROPE-AS
+CDLAN-AS Milano
+IOMART-AS
+ITLDC-NL
+NOVOSERVE-GMBH-AS Frankfurt, Germany
+ARETI-AS
+ZNET - Zenlayer Inc
+PHMGMT-AS1 - Powerhouse Management, Inc.
+ESITED - eSited Solutions
+RBLHST - Strong Technology, LLC.
+WOW - Wowrack.com
+UNITEDLAYER - Unitedlayer, Inc.
+SERVERCENTRAL - Server Central Network
+SGGS-AS-AP SG.GS
+ALMOUROLTEC
+NOVOSERVE-AS
+HETZNER-AS
+MYLOC-AS
+MASTER-AS Czech Republic / www.master.cz
+NG-NIGERIA-AS
+BANDWIDTH-AS
+PEKITEL-AS
+HUGESERVER-NETWORKS - HugeServer Networks, LLC
 IT7NET - IT7 Networks Inc, CA
 WEBAIR-INTERNET - Webair Internet Development Company Inc.,
 LEASEWEB-, DE

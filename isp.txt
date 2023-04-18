@@ -1648,6 +1648,7 @@ WOW - Wowrack.com
 UNITEDLAYER - Unitedlayer, Inc.
 SERVERCENTRAL - Server Central Network
 SGGS-AS-AP SG.GS
+VeriSign Infrastructure & Operations
 ALMOUROLTEC
 NOVOSERVE-AS
 HETZNER-AS

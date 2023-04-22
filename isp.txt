@@ -1673,6 +1673,7 @@ PCE-DE-DUS - PCE-NET GmbH, DE
 VCG-AS, NG
 Forcepoint, LLC
 Login, Inc.
+Digital Energy Technologies Limited 
 CENSYS-ARIN-03
 SIMPLYTRANSIT, GB
 NINE, CH

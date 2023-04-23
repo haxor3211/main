@@ -1507,7 +1507,7 @@ yourls\.org
 YoYs\.net
 Security Firewall Ltd
 Almouroltec Servicos De Informatica E Internet LDA
-	M247 Ltd
+M247 Ltd
 YP\.PL
 Zabbix
 Zade

@@ -2315,6 +2315,7 @@ Las Vegas NV Datacenter
 GTT Communications Inc.
 AVAST Software s.r.o.
 Hosting Services, Inc.
+Bitdefender SRL
 OVH US LLC
 tzulo, inc.
 IP Volume inc

@@ -1507,6 +1507,8 @@ yourls\.org
 YoYs\.net
 Security Firewall Ltd
 Almouroltec Servicos De Informatica E Internet LDA
+Colorado Internet Cooperative Association
+Stanford University
 M247 Ltd
 YP\.PL
 Zabbix

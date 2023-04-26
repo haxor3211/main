@@ -118,7 +118,6 @@ M247 Ltd
 Censys, Inc
 HonorHealth
 Censys, Inc.
-
 Aether
 Amazon Simple Notification Service Agent$
 Amazon-Route53-Health-Check-Service

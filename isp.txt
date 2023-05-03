@@ -15,7 +15,6 @@ Virgin Media
 Zenlayer Inc
 Digital Network JSC
 Creative Cable Network Private Limited
-Hetzner Online GmbH
 HostRoyale Technologies
 Tahoe Internet Exchange (TahoeIX)
 gae.googleusercontent.com
@@ -35,7 +34,6 @@ Uk Dedicated Servers Limited
 Google LLC
 Contabo Gmbh
 Microsoft Corporation
-Hetzner Online GmbH
 Softbank Bb Corp.
 Ehinet Srl
 Online s.a.s.
@@ -113,7 +111,6 @@ Cloudflare
 Geekyworks It Solutions Pvt Ltd
 Digital Energy Technologies Ltd.
 M247 Ltd
-Hetzner Online GmbH
 M247 LTD
 Velcom
 HQ Global Workplaces

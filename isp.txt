@@ -8,7 +8,6 @@ Chroot Network SRL
 PlusNet plc
 1&1 IONOS SE
 Virgin Media
-OVH SAS
 Zenlayer Inc
 Digital Network JSC
 Creative Cable Network Private Limited
@@ -83,7 +82,6 @@ msnbot
 phishtank
 amazonaws
 DigitalOcean
-OVH
 Facebook
 Network and Information Technology Limited
 IP VDF
@@ -100,7 +98,6 @@ Quasi Networks LTD
 Peak 10
 amazon	
 Clouvider Limited
-Ovh Sas
 Top Level Hosting Srl
 amazon.com Inc.	
 Hostroyale LLC	
@@ -1525,7 +1522,6 @@ Zermelo
 PlusNet plc
 Windstream Communications LLC
 PlusNet plc
-OVH SAS
 Windstream Communications LLC
 FasthostInternet Ltd
 Dianet Ltd.
@@ -1615,7 +1611,6 @@ ITLAS
 IDH
 CHERRYSERVERS1-AS
 DELTA-LTD-AS
-OVH
 UNSPECIFIED
 EQUINIX BRASIL SP
 AMAZON-02 - Amazon.com, Inc.
@@ -2323,7 +2318,6 @@ Corporación Dana S.A.
 Almouroltec Servicos De Informatica E Internet LDA
 networksdelmanana.com
 Cyber Assets FZCO
-OVH US LLC
 tzulo, inc.
 IP Volume inc
 Colocation America Corporation

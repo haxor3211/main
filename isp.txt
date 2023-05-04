@@ -15,7 +15,6 @@ Virgin Media
 Zenlayer Inc
 Digital Network JSC
 Creative Cable Network Private Limited
-HostRoyale Technologies
 Tahoe Internet Exchange (TahoeIX)
 gae.googleusercontent.com
 Level 3 Communications, Inc.
@@ -118,10 +117,7 @@ M247 LTD
 Velcom
 HQ Global Workplaces
 Cube Focus Limited
-M247 Ltd
 Censys, Inc
-HonorHealth
-Censys, Inc.
 Aether
 Amazon Simple Notification Service Agent$
 Amazon-Route53-Health-Check-Service
@@ -183,7 +179,6 @@ Alibaba (US) Technology Co., Ltd.
 UCLOUD
 China Mobile communications corporation 
 Alibaba.com LLC 
-Forcepoint, LLC
 DigitalOcean, LLC
 iTecom bvba
 Radore Veri Merkezi Hizmetleri A.S.
@@ -193,7 +188,6 @@ China Unicom Beijing Province Network
 China Unicom Shanghai Province Network
 The Constant Company, LLC
 The Constant Company
-Censys, Inc.
 Aboundex
 aboutthedomain
 Accoona-AI-Agent
@@ -1512,7 +1506,6 @@ Security Firewall Ltd
 Almouroltec Servicos De Informatica E Internet LDA
 Colorado Internet Cooperative Association
 Stanford University
-M247 Ltd
 YP\.PL
 Zabbix
 Zade
@@ -1523,9 +1516,6 @@ Zend\\\\Http\\\\Client
 OverPlay.Net LP
 Zend_Http_Client
 Zermelo
-PlusNet plc
-Windstream Communications LLC
-PlusNet plc
 Windstream Communications LLC
 FasthostInternet Ltd
 Dianet Ltd.
@@ -1547,7 +1537,6 @@ CDNetworks Inc.
 CDNetworks
 AS for CDN
 VPS Datacenter, LLC
-VPS Datacenter, LLC
 Teknik i Media Datacenter Stockholm AB
 RackBank Datacenters Private Ltd
 Powerbase DataCenter Services (HK) Ltd.
@@ -1568,15 +1557,7 @@ Forsikringens Datacenter A/S
 Fideicomiso de Administraci&#243;n Datacenter Capitalinas
 Unified Webhosting, LLC
 Entity
-VOXILITY, RO
-CENTURYLINK-LEGACY-SAVVIS - Savvis
-RAMNODE - RamNode LLC
-ALENT-ASN-1 - Alentus Corporation
-TWTC - tw telecom holdings, inc.
-IDC Yahoo Japan Corporation
 ROOT
-STRATO STRATO AG
-H1ASN
 HURRICANE - Hurricane Electric, Inc.
 LEASEWEB-USA-SFO-12 - Leaseweb USA, Inc.
 HOSTUS-GLOBAL-AS HostUS
@@ -1588,7 +1569,6 @@ ASN-QUADRANET-GLOBAL - QuadraNet, Inc
 ATOM86-AS ATOM86
 ONEANDONE-AS Brauerstrasse 48
 PLUSSERVER-AS
-M247
 SAKURA-B SAKURA Internet Inc.
 ENET-2 - eNET Inc.
 CARINET - CariNet, Inc.
@@ -1663,7 +1643,6 @@ PEKITEL-AS
 HUGESERVER-NETWORKS - HugeServer Networks, LLC
 eHealth Ontario
 Execulink Telecom Inc.
-VeriSign Infrastructure & Operations
 Sapinet
 IT7NET - IT7 Networks Inc, CA
 WEBAIR-INTERNET - Webair Internet Development Company Inc.,
@@ -1675,7 +1654,6 @@ AVAST Software s.r.o.
 HSI-EUROPE, GB
 PCE-DE-DUS - PCE-NET GmbH, DE
 VCG-AS, NG
-Forcepoint, LLC
 Login, Inc.
 Digital Energy Technologies Limited 
 CENSYS-ARIN-03
@@ -1950,7 +1928,6 @@ AS Number for WebHost.ie Ltd
 ASN de Dinahosting SL
 ASP4all Hosting B.V.
 Astute Hosting Inc.
-Astute Hosting Inc.
 AtNetHost LLC
 Atom Hosting SRL
 Autonomous System Hostserver GmbH
@@ -1972,8 +1949,6 @@ Canada Web Hosting
 Canhost Inc.
 Carpathia Hosting
 Carpathia Hosting, Inc.
-Carpathia Hosting, Inc.
-Carpathia Hosting, Inc.
 CENTER HOSTING TECNOLOGIA EIRELI
 Certit Hosting Handelsbolag
 City Network Hosting AB
@@ -1994,7 +1969,6 @@ Dedicated-Hosting Solutions
 DEDICATEDGAMING.COM.AU - Hosting Provider AUSTRALIA
 DediPower Managed Hosting
 DediPower Managed Hosting Limited
-DediPower Managed Hosting Limited
 dhosting.pl Sp. z o.o.
 Digital Sense Data Centre Hosting Brisbane
 DIGIWEB ADVANCED HOSTING LIMITED
@@ -2003,7 +1977,6 @@ DL Host
 dotCOM host
 DSNet Hosting Limited
 Easyhost BVBA
-EBOUNDHOST.com
 EBOUNDHOST.com
 EchoStar Broadcasting Corperation
 Echostar Broadcasting Corporation
@@ -2047,7 +2020,6 @@ Host NIT Inc
 Host Palace Internet Services
 Host Revenda
 Host Virtual, Inc
-Host Virtual, Inc
 Host-Telecom.com s.r.o.
 Host2 Ltd
 HOST365 LIMITED
@@ -2084,20 +2056,16 @@ HostIT NV
 Hostland LTD
 HOSTLINE, UAB
 Hostmaster LLC
-Hostmaster LLC
 Hostnet B.V.
 Hostnordic A/S
 Hostpoint AG, Switzerland
 Hostpro Ltd.
 HostRightNow Technologies India Pvt Ltd
 HostRocket.com, Inc.
-HostRocket.com, Inc.
-HostRocket.com, Inc.
 HOSTSPACE NETWORKS LLC
 HostUS
 HostVentures.com, Inc.
 Hostway Corporation
-Hostway Deutschland GmbH
 Hostway Deutschland GmbH
 HOSTWAY ROMANIA SRL
 Hostway Services, Inc.
@@ -2109,15 +2077,11 @@ iHosting Servicios Internet Ltda.
 INDIAGAMES TRANSIT AS Content hosting serivce India
 Inet Hosting Inc.
 INFOPLEX Hosting and Managed Service Provider Asia Pacific
-INFOPLEX Hosting and Managed Service Provider Asia Pacific
 Infortelecom Hosting, S.L.
 Ingram Micro Hosting B.V.
 InMotion Hosting, Inc.
-InMotion Hosting, Inc.
 Interhost Communication Solutions Ltd.
 Interhost Pacific Pty Ltd t/a Intervolve
-Interhost Pacific Pty Ltd t/a Intervolve.
-Interhost Pacific Pty Ltd t/a Intervolve.
 Interhost Pacific Pty Ltd t/a Intervolve.
 INTERNET E WEB HOSTING SERV DE INFORMATICA LTDA
 Internet Hosting Servers
@@ -2138,7 +2102,6 @@ Linqhost B.V.
 LLC Kras-Host
 LLHost Inc
 CORE-BACKBONE
-HonorHealth
 Next Vision Ltd
 ZSCALER, INC.
 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -2192,16 +2155,10 @@ Quantact Hosting Solutions, Inc.
 QWK.net Hosting, L.L.C.
 Rackhosting.com ApS
 Rackspace Hosting
-Rackspace Hosting
-Rackspace Hosting
-Rackspace Hosting
 Rackspace IT Hosting AS IT Hosting Provider Hong Kong
 Readyspace Network Pte Ltd, Hosted Solutions Provider,Singapore
 Rebel Hosting
 Reliable Hosting Services
-Reliablehosting.com
-Reliablehosting.com
-Reliablehosting.com
 Reliablehosting.com
 Reprise Hosting
 Research-and-production company Host Ltd
@@ -2248,7 +2205,6 @@ Todayhost Limited
 Top Level Hosting SRL
 TOV HOST VDS
 Tranquil Hosting, Inc.
-Tranquil Hosting, Inc.
 Trojan Hosting, LLC.
 Twinservers Hosting Solutions Inc.
 UAB HOSTEX
@@ -2256,7 +2212,6 @@ UDomain Web Hosting Company Ltd
 UK Webhosting Ltd
 Ultra Hosting
 Ultra Serve Internet Pty Ltd - Transit AS - Hosting Provider
-Unified Webhosting, LLC
 Ventelo Hosting AS
 Venzo Hosting A/S
 Visualhosting.net
@@ -2271,7 +2226,6 @@ Websense Hosted Security - Anycast network
 Websense Hosted Security - AsiaPac region
 WeHostWebSites.com
 White Sands Hosting
-Windstream Hosted Solutions, LLC
 Windstream Hosted Solutions, LLC
 WNet Internet y Hosting
 X-Host SRL
@@ -2292,67 +2246,31 @@ Datacenter Luxembourg S.A.
 DataCenter Noord BV
 DataCenter.BZ, LLC
 Digital Absolut Business - Servidor, Virtualizacao, Cluster, Datacenters e Telecomunicacoes
-Fideicomiso de Administraci&#243;n Datacenter Capitalinas
-Forsikringens Datacenter A/S
-HanDS Hanse Datacenter Services GmbH
 China Mobile communications corporation
 Amol Kotkar trading as A K Digital Media
 CNC Group CHINA169 Jiangxi Province Network
 ALGAR TELECOM S/A
-INTERNET DATACENTER
 PLUTEX GmbH
 PP "2K Merezha"
 Orion Network Limited
 QuadraNet
-Ipcore Datacenters S.L
-Iran Post Company-Tehran DataCenter
-Joe's Datacenter, LLC
-Jordens Datacenter NV
-Stanford University
 Amazon Technologies Inc.
 ZAIN
 Web2Objects LLC
-Microsoft Corporation
-Las Vegas NV Datacenter
 GTT Communications Inc.
-AVAST Software s.r.o.
 Hosting Services, Inc.
 Bitdefender SRL
 Corporación Dana S.A.
-Almouroltec Servicos De Informatica E Internet LDA
 networksdelmanana.com
 Cyber Assets FZCO
 tzulo, inc.
 IP Volume inc
 Colocation America Corporation
-LIR DATACENTER TELECOM SRL
 INCX Global, LLC
-Local Datacenter Solu&#231;&#245;es em Comunica&#231;&#227;o Ltda.
 LogicWeb Inc.
-MODIT Datacenter Informatikai es Szolgaltato KFT
-NAV DATACENTER TELECOM SRL
 NetGate Datacenter ASN
-Netmagic Datacenter Mumbai
-NxtGen Datacenter &amp; Cloud Technologies Pvt. Ltd.
-DigitalOcean
-DigitalOcean, LLC
-Powerbase DataCenter Services (HK) Ltd.
-RackBank Datacenters Private Ltd
-Teknik i Media Datacenter Stockholm AB
-Palo Alto Networks
-VPS Datacenter, LLC
 Skyway West Business Internet
-VPS Datacenter, LLC
-AS for CDN
 CDNetworksc
-CDNetworks Inc.
-CDNvideo LLC
-SimpleCDN Technologies, Inc.
-SkyparkCDN Ltd.
-UNIVERSAL CDN (CYPRUS) LTD
-NetGate Datacenter ASN
-Censys, Inc.
-DigitalOcean, LLC
 Zeus 
 zgrab
 ZnajdzFoto
@@ -2384,84 +2302,43 @@ Hongkong Service
 01h4x.com
 360Spider
 404checker
-404enemy
-80legs
-ADmantX
 AIBOT
 ALittle\ Client
-ASPSeek
-Abonti
-Aboundex
 Aboundexbot
-Acunetix
 AfD-Verbotsverfahren
 AhrefsBot
 AiHitBot
 Aipbot
 Alexibot
-AllSubmitter
-Alligator
 AlphaBot
-Anarchie
 Anarchy
 Anarchy99
 Ankit
-Anthill
-Apexoo
 Aspiegel
-Asterias
 Atomseobot
-Attach
 AwarioRssBot
 AwarioSmartBot
-BBBike
 BDCbot
-BDFetch
 BLEXBot
 BackDoorBot
-BackStreet
-BackWeb
-Backlink-Ceck
 BacklinkCrawler
-Badass
-Bandit
 Barkrowler
-BatchFTP
 Battleztar\ Bazinga
 BetaBot
-Bigfoot
-Bitacle
-BlackWidow
 Black\ Hole
 Blackboard
 Blow
-BlowFish
 Boardreader
 Bolt
 BotALot
-Brandprotect
-Brandwatch
-Buck
-Buddy
 BuiltBotTough
-BuiltWith
-Bullseye
-BunnySlippers
-BuzzSumo
 CATExplorador
 CCBot
 CODE87
-CSHttp
-Calculon
 CazoodleBot
-Cegbfeieh
 CensysInspect
 CheTeam
 CheeseBot
-CherryPicker
-ChinaClaw
-Chlooe
-Citoid
 Claritybot
 Cliqzbot
 Cloud\ mapping
@@ -2469,13 +2346,10 @@ Cocolyzebot
 Cogentbot
 Collector
 Copier
-CopyRightCheck
-Copyscape
 Cosmos
 Craftbot
 Crawling\ at\ Home\ Project
 CrazyWebCrawler
-Crescent
 CrunchBot
 Curious
 Custo
@@ -2484,23 +2358,13 @@ DBLBot
 DIIbot
 DSearch
 DTS\ Agent
-DataCha0s
-DatabaseDriverMysqli
-Demon
 Deusu
-Devil
-Digincore
-DigitalPebble
-Dirbuster
 Disco
 Discobot
 Discoverybot
-Dispatch
-DittoSpyder
 DnBCrawler-Analytics
 DnyzBot
 DomCopBot
-DomainAppender
 DomainCrawler
 DomainSigmaCrawler
 DomainStatsBot
@@ -2508,14 +2372,9 @@ Domains\ Project
 Dotbot
 Download\ Wonder
 Dragonfly
-Drip
 ECCP/1.0
 EMail\ Siphon
 EMail\ Wolf
-EasyDL
-Ebingbong
-Ecxi
-EirGrabber
 EroCrawler
 Evil
 Exabot
@@ -2524,83 +2383,42 @@ ExtLinksBot
 Extractor
 ExtractorPro
 Extreme\ Picture\ Finder
-EyeNetIE
 Ezooms
 FDM
-FHscan
 FemtosearchBot
-Fimap
 Firefox/7.0
-FlashGet
-Flunky
 Foobot
-Freeuploader
 FrontPage
 Fuzz
 FyberSpider
 Fyrebot
-G-i-g-a-b-o-t
-GT::WWW
 GalaxyBot
-Genieo
 GermCrawler
-GetRight
-GetWeb
-Getintent
 Gigabot
-Go!Zilla
-Go-Ahead-Got-It
-GoZilla
-Gotit
-GrabNet
-Grabber
-Grafula
-GrapeFX
 GrapeshotCrawler
 GridBot
-HEADMasterSEO
-HMView
-HTMLparser
-HTTP::Lite
 HTTrack
-Haansoft
 HaosouSpider
 Harvest
-Havij
 Heritrix
-Hloader
 HonoluluBot
-Humanlinks
 HybridBot
 IDBTE4M
 IDBot
 IRLbot
-Iblog
-Id-search
 IlseBot
 Image\ Fetch
 Image\ Sucker
 IndeedBot
 Indy\ Library
 InfoNaviRobot
-InfoTekies
-Intelliseek
-InterGET
-InternetSeer
 Internet\ Ninja
-Iria
 Iskanie
 IstellaBot
 JOC\ Web\ Spider
 JamesBOT
-Jbrofuzz
 JennyBot
-JetCar
-Jetty
 JikeSpider
-Joomla
-Jorgee
-JustView
 Jyxobot
 Kenjin\ Spider
 Keybot\ Translation-Search-Machine
@@ -2608,49 +2426,28 @@ Keyword\ Density
 Kinza
 Kozmosbot
 LNSpiderguy
-LWP::Simple
 Lanshanbot
-Larbin
 Leap
-LeechFTP
-LeechGet
 LexiBot
-Lftp
-LibWeb
-Libwhisker
 LieBaoFast
-Lightspeedsystems
-Likse
-LinkScan
-LinkWalker
 Linkbot
 LinkextractorPro
 LinkpadBot
-LinksManager
 LinqiaMetadataDownloaderBot
 LinqiaRSSBot
 LinqiaScrapeBot
-Lipperhey
 Lipperhey\ Spider
-Litemage_walker
 Lmspider
 Ltx71
-MFC_Tear_Sample
 MIDown\ tool
-MIIxpc
 MJ12bot
 MQQBrowser
-MSFrontPage
 MSIECrawler
 MTRobot
-Mag-Net
 Magnet
 Mail.RU_Bot
 Majestic-SEO
-Majestic12
 Majestic\ SEO
-MarkMonitor
-MarkWatch
 Mass\ Downloader
 Masscan
 Mata\ Hari
@@ -2667,7 +2464,6 @@ Microsoft\ URL\ Control
 Minefield
 Mister\ PiX
 Moblie Safari
-Mojeek
 Mojolicious
 MolokaiBot
 Morfeus\ Fucking\ Scanner
@@ -2675,236 +2471,118 @@ Mozlila
 Mr.4x3
 Msrabot
 Musobot
-NICErsPRO
 NPbot
 Name\ Intelligence
-Nameprotect
-Navroad
-NearSite
-Needle
-Nessus
-NetAnts
-NetLyzer
-NetMechanic
 NetSpider
-NetZIP
 Net\ Vampire
 Netcraft
 Nettrack
-Netvibes
 NextGenSearchBot
-Nibbler
 Niki-bot
-Nikto
 NimbleCrawler
 Nimbostratus
 Ninja
 Nmap
 Not
-Nuclei
 Nutch
-Octopus
 Offline\ Explorer
 Offline\ Navigator
 OnCrawl
-OpenLinkProfiler
-OpenVAS
-Openfind
 Openvas
 OrangeBot
 OrangeSpider
 OutclicksBot
 OutfoxBot
-PECL::HTTP
 PHPCrawl
-POE-Component-Client-HTTP
 PageAnalyzer
-PageGrabber
-PageScorer
 PageThing.com
 Page\ Analyzer
 Pandalytics
 Panscient
 Papa\ Foto
-Pavuk
-PeoplePal
 Petalbot
-Pi-Monster
-Picscout
-Picsearch
-PictureFinder
 Piepmatz
-Pimonster
-Pixray
 PleaseCrawl
-Pockey
 ProPowerBot
-ProWebWalker
 Probethenet
 Psbot
 Pu_iN
-Pump
 PxBroker
 PyCurl
 QueryN\ Metasearch
 Quick-Crawler
 RSSingBot
-RankActive
 RankActiveLinkBot
-RankFlex
 RankingBot
 RankingBot2
 Rankivabot
 RankurBot
 Re-re
-ReGet
-RealDownload
 Reaper
-RebelMouse
-Recorder
 RedesScrapy
-RepoMonkey
 Ripper
 RocketCrawler
 Rogerbot
-SBIder
-SEOkicks
 SEOkicks-Robot
 SEOlyticsCrawler
-SEOprofiler
-SEOstats
-SISTRIX
 SMTBot
-SalesIntelligent
-ScanAlert
 Scanbot
-ScoutJet
-Scrapy
-Screaming
 ScreenerBot
 ScrepyBot
-Searchestate
 SearchmetricsBot
 Seekport
 SemanticJuice
-Semrush
 SemrushBot
 SentiBot
 SeoSiteCheckup
 SeobilityBot
-Seomoz
-Shodan
-Siphon
 SiteCheckerBotCrawler
-SiteExplorer
 SiteLockSpider
-SiteSnagger
-SiteSucker
 Site\ Sucker
-Sitebeam
-Siteimprove
-Sitevigil
-SlySearch
-SmartDownload
-Snake
 Snapbot
-Snoopy
 SocialRankIOBot
 Sociscraper
 Sogou\ web\ spider
 Sosospider
-Sottopop
-SpaceBison
-Spammen
 SpankBot
-Spanner
 Spbot
-Spinn3r
 SputnikBot
 Sqlmap
-Sqlworm
-Sqworm
-Steeler
 Stripper
 Sucker
-Sucuri
 SuperBot
-SuperHTTP
 Surfbot
 SurveyBot
-Suzuran
 Swiftbot
-Szukacz
-T0PHackTeam
 T8Abot
-Teleport
 TeleportPro
-Telesoft
-Telesphoreo
-Telesphorep
-TheNomad
 The\ Intraformant
-Thumbor
 TightTwatBot
 Titan
-Toata
 Toweyabot
 Tracemyfile
-Trendiction
 Trendictionbot
 True_Robot
-Turingos
-Turnitin
 TurnitinBot
 TwengaBot
-Twice
-Typhoeus
 URLy.Warning
 URLy\ Warning
 UnisterBot
-Upflow
 V-BOT
 VB\ Project
-VCI
-Vacuum
-Vagabondo
 VelenPublicWebCrawler
 VeriCiteCrawler
 VidibleScraper
-Virusdie
-VoidEYE
-Voil
 Voltron
 WASALive-Bot
 WBSearchBot
 WEBDAV
 WISENutbot
-WPScan
-WWW-Collector-E
-WWW-Mechanize
-WWW::Mechanize
-WWWOFFLE
 Wallpapers
 Wallpapers/3.0
-WallpapersHD
-WeSEE
-WebAuto
 WebBandit
 WebCollage
-WebCopier
-WebEnhancer
-WebFetch
-WebFuck
 WebGo\ IS
-WebImageCollector
-WebLeacher
-WebPix
-WebReaper
-WebSauger
-WebStripper
-WebSucker
-WebWhacker
-WebZIP
 Web\ Auto
 Web\ Collage
 Web\ Enhancer
@@ -2913,13 +2591,9 @@ Web\ Fuck
 Web\ Pix
 Web\ Sauger
 Web\ Sucker
-Webalta
 WebmasterWorldForumBot
-Webshag
 WebsiteExtractor
-WebsiteQuester
 Website\ Quester
-Webster
 Whack
 Whacker
 Whatweb
@@ -2935,27 +2609,19 @@ Xaldon\ WebSpider
 Xaldon_WebSpider
 Xenu
 YoudaoBot
-Zade
-Zauba
-Zermelo
 Zeus
 Zitebot
-ZmEu
 ZoomBot
 ZoominfoBot
 ZumBot
-ZyBorg
-adscanner
 archive.org_bot
 arquivo-web-crawler
 arquivo.pt
 autoemailspider
-backlink-check
 cah.io.community
 check1.exe
 clark-crawler
 coccocbot
-cognitiveseo
 com.plumanalytics
 crawl.sogou.com
 crawler.feedback
@@ -2963,48 +2629,32 @@ crawler4j
 dataforseo.com
 demandbase-bot
 domainsproject.org
-eCatch
-evc-batch
 facebookscraper
 gopher
-heritrix
-instabid
 internetVista\ monitor
-ips-agent
 isitwp.com
 iubenda-radar
 linkdexbot
-lwp-request
-lwp-trivial
 magpie-crawler
 meanpathbot
-mediawords
-muhstik-scan
 netEstate\ NE\ Crawler
 oBot
 page\ scorer
-pcBrowser
-plumanalytics
 polaris\ version
 probe-image-size
 ripz
 s1z.ru
 satoristudio.net
-scalaj-http
 scan.lol
 seobility
 seocompany.store
-seoscanners
 seostar
 serpstatbot
-sexsearcher
 sitechecker.pro
 siteripz
 sogouspider
 sp_auditbot
 spyfu
-sysscan
-tAkeOut
 trendiction.com
 trendiction.de
 ubermetrics-technologies.com
@@ -3013,16 +2663,10 @@ webgains-bot
 webmeup-crawler
 webpros.com
 webprosbot
-x09Mozilla
-x22Mozilla
 xpymep1.exe
 zauba.io
-zgrab
 B2 Net Solutions Inc.
-China Mobile communications corporation
 ZSCALER, INC. 
 ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD
-Censys, Inc.
 CHINA TELECOM (AMERICAS) CORPORATION
 Unus Inc
-Google LLC

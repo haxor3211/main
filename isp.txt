@@ -1567,7 +1567,6 @@ HOSTUS-GLOBAL-AS HostUS
 INTERQ GMO Internet,Inc
 CITYLINKFIBER - iHighway.net, Inc.
 SERVERS - Servers.com, Inc.
-MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation
 ASN-QUADRANET-GLOBAL - QuadraNet, Inc
 ATOM86-AS ATOM86
 ONEANDONE-AS Brauerstrasse 48

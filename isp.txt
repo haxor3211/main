@@ -815,6 +815,7 @@ LinkWalker
 link_thumbnailer
 Lipperhey
 Litemage_walker
+Telia
 livedoor ScreenShot
 LoadImpactRload
 localsearch-web

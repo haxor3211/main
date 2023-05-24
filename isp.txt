@@ -806,6 +806,7 @@ linkCheck
 linkdex
 LinkExaminer
 linkfluence
+TRALEX
 linkpeek
 LinkPreview
 LinkScan

@@ -810,6 +810,7 @@ TRALEX
 linkpeek
 LinkPreview
 LinkScan
+Kaspersky Lab ZAO
 LinksManager
 LinkTiger
 LinkWalker

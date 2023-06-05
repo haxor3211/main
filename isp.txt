@@ -1524,7 +1524,6 @@ Zend\\\\Http\\\\Client
 OverPlay.Net LP
 Zend_Http_Client
 Zermelo
-Windstream Communications LLC
 FasthostInternet Ltd
 Dianet Ltd.
 VOXILITY, RO

@@ -1513,6 +1513,7 @@ YoYs\.net
 Security Firewall Ltd
 Almouroltec Servicos De Informatica E Internet LDA
 Colorado Internet Cooperative Association
+Sonic.net, LLC
 Stanford University
 YP\.PL
 Zabbix

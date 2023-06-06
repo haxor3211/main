@@ -1520,7 +1520,6 @@ Zade
 Zao
 Zauba
 NTT America, Inc.
-Rogers Communications Canada Inc.
 Zemanta Aggregator
 Zend\\\\Http\\\\Client
 OverPlay.Net LP

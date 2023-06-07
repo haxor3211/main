@@ -1689,6 +1689,7 @@ SINGLEHOP-LLC - SingleHop, Inc., US
 AMANAHA-NEW - Amanah Tech Inc., CA
 IWEB-AS - iWeb Technologies Inc., CA
 HOSTINGSERVICES-INC - Hosting Services, Inc., US
+Hosting Services, Inc.
 Rackspace
 AXCELX-NET - AxcelX Technologies LLC, US
 DIMENOC - HostDime.com, Inc., US

@@ -1688,7 +1688,7 @@ LIQUID-WEB-INC - Liquid Web, L.L.C, US
 SINGLEHOP-LLC - SingleHop, Inc., US
 AMANAHA-NEW - Amanah Tech Inc., CA
 IWEB-AS - iWeb Technologies Inc., CA
-HOSTINGSERVICES-INC - Hosting Services, Inc., US
+HOSTINGSERVICES-INC
 Hosting Services, Inc.
 Rackspace
 AXCELX-NET - AxcelX Technologies LLC, US

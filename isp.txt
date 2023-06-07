@@ -1686,6 +1686,7 @@ WII-KC - WholeSale Internet, Inc., US
 ASN-GIGENET - GigeNET, US
 LIQUID-WEB-INC - Liquid Web, L.L.C, US
 SINGLEHOP-LLC - SingleHop, Inc., US
+VeriSign Infrastructure & Operations
 AMANAHA-NEW - Amanah Tech Inc., CA
 IWEB-AS - iWeb Technologies Inc., CA
 HOSTINGSERVICES-INC

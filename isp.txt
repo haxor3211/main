@@ -25,6 +25,7 @@ Incx Global LLC
 Gmo Internet
 LogicWeb Inc
 Censys, Inc.
+Digi Spain Telecom S.L.U.
 Forcepoint, LLC
 HonorHealth
 Highwinds Network Group Inc.

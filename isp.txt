@@ -1519,6 +1519,7 @@ Security Firewall Ltd
 Almouroltec Servicos De Informatica E Internet LDA
 Colorado Internet Cooperative Association
 Sonic.net, LLC
+I.C.S. Trabia-Network S.R.L.
 Stanford University
 YP\.PL
 Zabbix
@@ -1599,6 +1600,7 @@ HWNG
 UK2NET-AS
 DATACENTER-IP - Datacenter IP, LLC
 RBLHST-NY - Strong Technology, LLC.
+Strong Technology
 DIGITALOCEAN-ASN - Digital Ocean, Inc.
 ILAND - Iland Internet Solutions Corporation
 AMAZON-AES - Amazon.com, Inc.

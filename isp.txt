@@ -16,6 +16,7 @@ Virgin Media
 Zenlayer Inc
 Digital Network JSC
 Creative Cable Network Private Limited
+VeriSign Infrastructure & Operations
 Kabelsignal AG
 Tahoe Internet Exchange (TahoeIX)
 gae.googleusercontent.com

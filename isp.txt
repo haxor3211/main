@@ -81,9 +81,7 @@ City University of Hong Kong
 Google Fiber Inc.	
 Palo Alto Networks	
 Quadranet Enterprises LLC	
-Censys Inc.	
-amazon.com, Inc	
-Amazon.com, Inc.
+Censys Inc.
 crawler	
 vultr.com	
 msnbot
@@ -107,7 +105,6 @@ Peak 10
 amazon	
 Clouvider Limited
 Top Level Hosting Srl
-amazon.com Inc.	
 Hostroyale LLC	
 Nanyang Technological University
 Zscaler Inc.

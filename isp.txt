@@ -28,6 +28,7 @@ Gmo Internet
 LogicWeb Inc
 Censys, Inc.
 Digi Spain Telecom S.L.U.
+Teso LT UAB
 RIMA (Red IP Multi Acceso)
 Forcepoint, LLC
 HonorHealth

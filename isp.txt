@@ -612,6 +612,7 @@ Google-Site-Verification
 Google-SMTP-STS
 Google-speakr
 Google-Structured-Data-Testing-Tool
+MTS PJSC
 Google-Transparency-Report
 google-xrawler
 Google-Youtube-Links

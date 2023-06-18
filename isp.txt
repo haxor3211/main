@@ -1704,6 +1704,7 @@ LIQUID-WEB-INC - Liquid Web, L.L.C, US
 SINGLEHOP-LLC - SingleHop, Inc., US
 VeriSign Infrastructure & Operations
 AMANAHA-NEW - Amanah Tech Inc., CA
+Amanah Tech Inc.
 IWEB-AS - iWeb Technologies Inc., CA
 HOSTINGSERVICES-INC
 Hosting Services, Inc.

@@ -74,6 +74,7 @@ Huawei Clouds
 b2 Net Solutions Inc.
 Quickpacket LLC
 Leaseweb Usa Inc.
+Leaseweb USA
 Azure Technology Co. Limited
 m247 Ltd	
 Amanah Tech Inc.	
@@ -1780,6 +1781,7 @@ PORTLANE www.portlane.com, SE
 EVANZOAS, DE
 UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location,
 Agava ltd, RU
+DediPath
 OOO Network of data-centers Selectel
 TRABIA trabia network, MD
 FISHNET-AS, RU

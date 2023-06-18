@@ -189,7 +189,8 @@ Alibaba (US) Technology Co., Ltd.
 UCLOUD
 China Mobile communications corporation 
 China Mobile communications
-Alibaba.com LLC 
+Alibaba.com LLC
+CHINANET SHAANXI province Cloud Base network
 DigitalOcean, LLC
 iTecom bvba
 Radore Veri Merkezi Hizmetleri A.S.

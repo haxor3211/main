@@ -1795,6 +1795,7 @@ QUICKPACKET - QuickPacket, LLC, US
 ASN-VICTON - VICTON, Inc., CA
 LIMESTONENETWORKS - Limestone Networks, Inc., US
 TOTAL-SERVER-SOLUTIONS - Total Server Solutions L.L.C., US
+Total Server Solutions L.L.C
 VOLUMEDRIVE - VolumeDrive, US
 CACHED - CachedNet LLC, US
 DSNETWORKS-001 - DirectSpace Networks, LLC., US
@@ -1832,6 +1833,7 @@ GORILLASERVERS - GorillaServers, Inc., US
 MICFO - Micfo, LLC., US
 AS-NETDNA - netDNA, US
 RBLHST-FL - Strong Technology, LLC., US
+Strong Technology
 MADEIT - MadeIT inc., US
 CORESPACE-DAL - CoreSpace, Inc., US
 18779 - EGIHosting, US

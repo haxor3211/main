@@ -22,6 +22,7 @@ Kabelsignal AG
 Tahoe Internet Exchange (TahoeIX)
 gae.googleusercontent.com
 Level 3 Communications, Inc.
+Universite Laval
 Colocrossing
 KABELOVA TELEVIZE CZ s.r.o.
 Oyster Telecom

@@ -2352,6 +2352,7 @@ a-z0-9\-_
 Squarespace, Inc. 
 Hongkong Service
 01h4x.com
+Kddi Corporation
 360Spider
 404checker
 OVH ISP

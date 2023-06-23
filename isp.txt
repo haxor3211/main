@@ -114,7 +114,7 @@ Peak 10
 amazon	
 Clouvider Limited
 Top Level Hosting Srl
-Hostroyale LLC	
+Hostroyale LLC
 Nanyang Technological University
 Zscaler Inc.
 Datacamp Limited

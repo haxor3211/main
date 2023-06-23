@@ -1677,10 +1677,10 @@ HUGESERVER-NETWORKS - HugeServer Networks, LLC
 eHealth Ontario
 Execulink Telecom Inc.
 Sapinet
-IT7NET - IT7 Networks Inc, CA
+IT7NET - IT7 Networks Inc
 WEBAIR-INTERNET - Webair Internet Development Company Inc.,
 LEASEWEB-
-VELIANET-AS velia.net Internetdienste GmbH, DE
+VELIANET-AS velia.net Internetdienste GmbH
 QUASINETWORKS
 ISPSYSTEM-AS
 AVAST Software s.r.o.

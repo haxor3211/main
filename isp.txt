@@ -1679,185 +1679,188 @@ Execulink Telecom Inc.
 Sapinet
 IT7NET - IT7 Networks Inc, CA
 WEBAIR-INTERNET - Webair Internet Development Company Inc.,
-LEASEWEB-, DE
+LEASEWEB-
 VELIANET-AS velia.net Internetdienste GmbH, DE
-QUASINETWORKS, NL
-ISPSYSTEM-AS, LU
+QUASINETWORKS
+ISPSYSTEM-AS
 AVAST Software s.r.o.
-HSI-EUROPE, GB
-PCE-DE-DUS - PCE-NET GmbH, DE
-VCG-AS, NG
+HSI-EUROPE
+PCE-DE-DUS - PCE-NET GmbH
+VCG-AS
 Login, Inc.
 Digital Energy Technologies Limited 
 CENSYS-ARIN-03
-SIMPLYTRANSIT, GB
-NINE, CH
-HVC-AS - HIVELOCITY VENTURES CORP, US
-AMC - Atlantic Metro Communications, US
-WESTHOST - WestHost, Inc., US
-SERVER4YOU - server4you Inc., US
-AS-PRIORITYCOLO - Priority Colo Inc, CA
-WEHOSTWEBSITES-COM - Handy Networks, LLC, US
-LEASEWEB-USA-WDC-01 - Leaseweb USA, Inc., US
-SERVERHUB-PHOENIX - Eonix Corporation, US
-WEBWORLD-AS t/a Web World Ireland, IE
-NAL-AS, NG
-KEYWEB-AS, DE
-WII-KC - WholeSale Internet, Inc., US
-ASN-GIGENET - GigeNET, US
-LIQUID-WEB-INC - Liquid Web, L.L.C, US
-SINGLEHOP-LLC - SingleHop, Inc., US
+SIMPLYTRANSIT
+NINE
+HVC-AS - HIVELOCITY VENTURES CORP
+AMC - Atlantic Metro Communications
+WESTHOST - WestHost, Inc.
+SERVER4YOU - server4you Inc.
+AS-PRIORITYCOLO - Priority Colo Inc
+WEHOSTWEBSITES-COM - Handy Networks, LLC
+LEASEWEB-USA-WDC-01 - Leaseweb USA, Inc.
+SERVERHUB-PHOENIX - Eonix Corporation
+WEBWORLD-AS t/a Web World Ireland
+NAL-AS
+KEYWEB-AS
+WII-KC - WholeSale Internet, Inc.
+ASN-GIGENET - GigeNET
+LIQUID-WEB-INC - Liquid Web, L.L.C
+SINGLEHOP-LLC - SingleHop, Inc.
 VeriSign Infrastructure & Operations
-AMANAHA-NEW - Amanah Tech Inc., CA
+AMANAHA-NEW - Amanah Tech Inc.
 Amanah Tech Inc.
-IWEB-AS - iWeb Technologies Inc., CA
+IWEB-AS - iWeb Technologies Inc.
 HOSTINGSERVICES-INC
 Hosting Services, Inc.
 Rackspace
-AXCELX-NET - AxcelX Technologies LLC, US
-DIMENOC - HostDime.com, Inc., US
-ONS-COS - Data 102, LLC, US
-CLOUDRADIUM-ASN - CloudRadium L.L.C, US
-DATASHACK - DataShack, LC, US
-HIGHWINDS2 - Highwinds Network Group, Inc., US
-WEBWERKSAS1 - Web Werks, US
-BIZNESSHOSTING - VOLICO, US
-CITYNET, EG
-CORE-BACKBONE, DE
-BASEIP, NL
-PDDA-AS, CZ
-SERVETHEWORLD-AS, NO
-SWIFTWAY-AS Netherlands, GB
-ISPPRO-AS EUserv / KOS-Online / Keepfree, DE
-WEBZILLA, NL
-XL-AS, NL
-REDSTATION European Network, GB
-VPLSNET - Krypt Technologies, US
+AXCELX-NET - AxcelX Technologies LLC
+DIMENOC - HostDime.com, Inc.
+ONS-COS - Data 102, LLC
+CLOUDRADIUM-ASN - CloudRadium L.L.C
+DATASHACK - DataShack, LC
+HIGHWINDS2 - Highwinds Network Group, Inc.
+WEBWERKSAS1 - Web Werks
+BIZNESSHOSTING - VOLICO
+CITYNET
+CORE-BACKBONE
+BASEIP
+PDDA-AS
+SERVETHEWORLD-AS
+SWIFTWAY-AS Netherlands
+ISPPRO-AS EUserv / KOS-Online / Keepfree
+WEBZILLA
+XL-AS
+REDSTATION European Network
+VPLSNET - Krypt Technologies
 YHC
-MULTA-ASN1 - MULTACOM CORPORATION, US
-COLO4-CO - Colo4, LLC, US
-VERSAWEB-ASN - Versaweb, LLC, US
-THECABLE-STKITTS-01 - The Cable of St. Kitts, KN
-SOFTLAYER - SoftLayer Technologies Inc., US
-AS-COLOCROSSING - ColoCrossing, US
+MULTA-ASN1 - MULTACOM CORPORATION
+COLO4-CO - Colo4, LLC
+VERSAWEB-ASN - Versaweb, LLC
+THECABLE-STKITTS-01 - The Cable of St. Kitts
+SOFTLAYER - SoftLayer Technologies Inc.
+AS-COLOCROSSING - ColoCrossing
 Leaseweb USA, Inc., Ubiquity Server Solutions Dallas
 Leaseweb USA, Inc.
 GTCOMM - GloboTech Communications, CA
-VNL1-AS, NG
-DOPC-AS, NG
-KKON, NG
-interswitch, NG
-GALAXYBB-AS, NG
-VDT-AS, NG
-HETZNER, ZA
-UNILAG, NG
-HYPERIA, NG
-SWIFTTALK, NG
-PHASE3TEL, NG
-ICSL, NG
-BCL, NG
-COOLLINK, NG
-NGCOM, NG
-Futurecom, NG
-NIGCOMSAT, NG
-Zinox, NG
-Internet-Solutions-, NG
-WINROCK-, NG
-Ambion-AS, NG
+VNL1-AS
+DOPC-AS
+KKON
+interswitch
+GALAXYBB-AS
+VDT-AS
+HETZNER
+UNILAG
+HYPERIA
+SWIFTTALK
+PHASE3TEL
+ICSL
+BCL
+COOLLINK
+NGCOM
+Futurecom
+NIGCOMSAT
+Zinox
+Internet-Solutions-
+WINROCK-
+Ambion-AS
 NRaE1-AS, NG
-NetStack-AS, ZA
+NetStack-AS
 BITFLUX, 
-NEWMEDIAEXPRESS-AS-AP NewMedia Express Pte Ltd, SG
-COMVIVE-AS Madrid - Spain, ES
-HSO-GROUP, GB
-ESAB-AS, SE
-SUPERNETWORK-AS Bilejova 407, CZ
-ADVANCEDHOSTERS-AS, NL
-THEOPT-HOU - The Optimal Link Corporation, US
-TURNKEY-INTERNET - Turnkey Internet Inc., US
-AS40676 - Psychz Networks, US
-WZCOM-US - WZ Communications Inc., US
-PARAD-40-ASN - Paradise Networks LLC, US
-AQUARAY, FR
-HOSTING-AS http://hosting.ua, UA
-LCPDCO LCP AS dc oostkamp, BE
-FREEHOST, UA
-ANEXIA-AS A-9020 Klagenfurt, AT
-CNHAB, SE
-PORTLANE www.portlane.com, SE
-EVANZOAS, DE
+NEWMEDIAEXPRESS-AS-AP NewMedia Express Pte Ltd
+COMVIVE-AS Madrid - Spain
+HSO-GROUP
+ESAB-AS
+SUPERNETWORK-AS Bilejova 407
+ADVANCEDHOSTERS-AS
+THEOPT-HOU - The Optimal Link Corporation
+TURNKEY-INTERNET - Turnkey Internet Inc.
+AS40676 - Psychz Networks
+WZCOM-US - WZ Communications Inc.
+PARAD-40-ASN - Paradise Networks LLC
+AQUARAY
+HOSTING-AS http://hosting.ua
+LCPDCO LCP AS dc oostkamp
+FREEHOST
+ANEXIA-AS A-9020 Klagenfurt
+CNHAB
+PORTLANE www.portlane.com
+EVANZOAS
 UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location,
-Agava ltd, RU
+Agava ltd
 DediPath
 OOO Network of data-centers Selectel
 TRABIA trabia network, MD
-FISHNET-AS, RU
-NFORCE, NL
-PIN-AS, RU
-DE-FIRSTCOLO www.first-colo.net, DE
+FISHNET-AS
+NFORCE
+PIN-AS
+DE-FIRSTCOLO www.first-colo.net
 CNNIC-ALIBABA-CN-NET-AP Alibaba (China) Technology Co., Ltd.
 RACKSPACE-AP Rackspace IT Hosting AS IT Hosting Provider Hon
 SG-8-TO-SG 8 to Infinity Pte Ltd, SG
-AS45671-NET-AU Wholesale Services Provider, AU
-HOSTCOIN-AS-IN-AP ESDS Software Solution Pvt. Ltd., IN
-QUICKPACKET - QuickPacket, LLC, US
-ASN-VICTON - VICTON, Inc., CA
-LIMESTONENETWORKS - Limestone Networks, Inc., US
-TOTAL-SERVER-SOLUTIONS - Total Server Solutions L.L.C., US
+AS45671-NET-AU Wholesale Services Provider
+HOSTCOIN-AS-IN-AP ESDS Software Solution Pvt. Ltd.
+QUICKPACKET - QuickPacket, LLC
+ASN-VICTON - VICTON, Inc.
+LIMESTONENETWORKS - Limestone Networks, Inc.
+TOTAL-SERVER-SOLUTIONS - Total Server Solutions L.L.C.
 Total Server Solutions L.L.C
-VOLUMEDRIVE - VolumeDrive, US
-CACHED - CachedNet LLC, US
-DSNETWORKS-001 - DirectSpace Networks, LLC., US
-ST-BGP - Sharktech, US
-TRI-AS, ES
-TTM, DE
-TELENETRONICS-AS, RS
-DOTSI, PT
-GLOBALLAYER, NL
-SELECTEL, RU
-SERVERHUB-, DE
-I3DNET, NL
-WORLDSTREAM, NL
-INFIUM, UA
-THORDC-AS, IS
-SERVERIUS-AS, NL
-THINKSYSTEMSUK-ASN, GB
-CONTABO to AS1299 announce AS34933, DE
-XIRRA, DE
-AS-SOFTPLUS, CH
-ALTUSHOST-NET, NL
-GTT-AS, CZ
-ASEUHOST, FI
-PLI-AS, CH
-DATACLUB, LV
-MAKONIX, LV
-ROUTERNETWORKS, US
-WIX NET DO BRASIL LTDA, BR
-FIBERHUB - VegasNAP, LLC, US
-ANONYMIZER - Anonymizer Inc., US
-HOYOS-CONSULTING-LLC - Hoyos Consulting LLC, US
-PONYNET - FranTech Solutions, US
+VOLUMEDRIVE - VolumeDrive
+CACHED - CachedNet LLC
+DSNETWORKS-001 - DirectSpace Networks, LLC.
+ST-BGP - Sharktech
+TRI-AS
+TTM
+TELENETRONICS-AS
+DOTSI
+GLOBALLAYER
+SELECTEL
+SERVERHUB-
+I3DNET
+WORLDSTREAM
+INFIUM
+THORDC-AS
+SERVERIUS-AS
+THINKSYSTEMSUK-ASN
+CONTABO to AS1299 announce AS34933
+XIRRA
+AS-SOFTPLUS
+ALTUSHOST-NET
+GTT-AS
+ASEUHOST
+PLI-AS
+DATACLUB
+MAKONIX
+ROUTERNETWORKS
+WIX NET DO BRASIL LTDA
+FIBERHUB - Ve
+ANONYMIZER - Anonymizer Inc.
+HOYOS-CONSULTING-LLC - Hoyos Consulting LLC
+PONYNET - FranTech Solutions
 NTT-ME Corporation
-IOFLOOD - Input Output Flood LLC, US
-GORILLASERVERS - GorillaServers, Inc., US
-MICFO - Micfo, LLC., US
-AS-NETDNA - netDNA, US
-RBLHST-FL - Strong Technology, LLC., US
+IOFLOOD - Input Output Flood LLC
+GORILLASERVERS - GorillaServers, Inc.
+MICFO - Micfo, LLC.
+AS-NETDNA - netDNA
+RBLHST-FL - Strong Technology
 Strong Technology
-MADEIT - MadeIT inc., US
-CORESPACE-DAL - CoreSpace, Inc., US
-18779 - EGIHosting, US
-INCERO - Incero LLC, US
-ILIKA - velia.net (USA) Inc., US
-SERVER-MANIA - B2 Net Solutions Inc., CA
-PSWITCH-HK PACSWITCH IP NETWORK, HK
-CLOUDIE-AS-AP Cloudie Limited, HK
+MADEIT - MadeIT inc.
+CORESPACE-DAL - CoreSpace, Inc.
+18779 - EGIHosting
+INCERO - Incero LLC
+ILIKA - velia.net (USA) Inc.
+SERVER-MANIA - B2 Net Solutions Inc.
+PSWITCH-HK PACSWITCH IP NETWORK
+CLOUDIE-AS-AP Cloudie Limited
 CNNIC-BAIDU-AP Beijing Baidu Netcom Science and Technology C
-SERVERASTRA-AS, HU
-MELBICOM-EU-AS, NL
-SOLOGIGABIT-AS, ES
-HOSTKEY-AS, NL
-EDIS-AS-EU, AT
+Afrihost (Pty) Ltd
+AxcelX Technologies LLC
+BT Public Internet Service
+SERVERASTRA-AS
+MELBICOM-EU-AS
+SOLOGIGABIT-AS
+HOSTKEY-AS
+EDIS-AS-EU
 ARIAWEBCO-AS
 AS57858, EE
 YISP-AS, NL

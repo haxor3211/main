@@ -23,6 +23,7 @@ Tahoe Internet Exchange (TahoeIX)
 gae.googleusercontent.com
 Level 3 Communications, Inc.
 Colocrossing
+KABELOVA TELEVIZE CZ s.r.o.
 Oyster Telecom
 Performive LLC
 Incx Global LLC
@@ -42,6 +43,7 @@ Highwinds Network Group Inc
 Rain Networks (Pty) Ltd
 Cisco Systems Ironport Division
 Uk Dedicated Servers Limited
+arsys.es
 Google LLC
 Contabo Gmbh
 Softbank Bb Corp.

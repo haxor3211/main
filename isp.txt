@@ -1900,6 +1900,7 @@ ASDMZHOST, NL
 SIMPLERCLOUD-AS-AP SimplerCloud Pte Ltd, SG
 WEBWERKS-AS-IN Web Werks India Pvt. Ltd., IN
 INTERGRID-AS-AP Intergrid Group Pty Ltd, AU
+Intergrid Group Pty Ltd
 LSW-HK Leaseweb Asia Pacific pte. ltd., HK
 NME-INDONESIA-AS-AP NewMedia Express Pte Ltd, ID
 ONEPROVIDER-AS BrainStorm Network, Inc, CA

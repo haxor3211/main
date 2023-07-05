@@ -2349,6 +2349,7 @@ ZyBorg
 [a-z0-9\-_]*(bot|crawl|archiver|transcoder|spider|uptime|validator|fetcher|cron|checker|reader|extractor|monitoring|analyzer|scraper)
 crawl
 archiver
+heficedn
 transcoder
 spider
 uptime

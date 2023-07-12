@@ -1534,6 +1534,7 @@ Yo-yo
 Yoleo Consumer
 yomins\.com
 yoogliFetchAgent
+Asia Pacific Network Information Centre
 YottaaMonitor
 Your-Website-Sucks
 yourls\.org

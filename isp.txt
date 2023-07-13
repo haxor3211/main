@@ -1535,6 +1535,10 @@ Yoleo Consumer
 yomins\.com
 yoogliFetchAgent
 Asia Pacific Network Information Centre
+ITL-Bulgaria Ltd.
+M247 Europe SRL
+Chinanet
+Pptechnology Limited
 YottaaMonitor
 Your-Website-Sucks
 yourls\.org

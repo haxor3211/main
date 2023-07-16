@@ -1758,7 +1758,7 @@ SOFTLAYER - SoftLayer Technologies Inc.
 AS-COLOCROSSING - ColoCrossing
 Leaseweb USA, Inc., Ubiquity Server Solutions Dallas
 Leaseweb USA, Inc.
-GTCOMM - GloboTech Communications, CA
+GTCOMM - GloboTech Communications
 VNL1-AS
 DOPC-AS
 KKON
@@ -1878,8 +1878,8 @@ SOLOGIGABIT-AS
 HOSTKEY-AS
 EDIS-AS-EU
 ARIAWEBCO-AS
-AS57858, EE
-YISP-AS, NL
+AS57858
+YISP-AS
 SYN
 LSW-SG Leaseweb Asia Pacific pte. ltd.
 GMO-Z-COM GMO-Z.COM PTE. LTD.

@@ -215,6 +215,7 @@ aboutthedomain
 Accoona-AI-Agent
 acebookexternalhit
 acoon
+Apple Inc.
 acrylicapps\.compulp
 Acunetix
 AdAuth

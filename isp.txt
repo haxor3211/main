@@ -8,6 +8,7 @@ Chroot Network SRL
 PlusNet plc
 1&1 IONOS SE
 Ovh Sas
+Connect Communication
 OVH SAS
 OVH
 OVH US LLC

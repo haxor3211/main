@@ -231,6 +231,7 @@ adressendeutschland
 adreview
 adscanner
 adstxt-worker
+NetAssist
 Adstxtaggregator
 adstxt\.com
 Geekyworks IT Solutions Pvt Ltd

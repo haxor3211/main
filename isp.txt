@@ -235,6 +235,7 @@ Adstxtaggregator
 adstxt\.com
 Geekyworks IT Solutions Pvt Ltd
 Adyen HttpClient
+Liquid IO
 AffiliateLabz
 affilimate-puppeteer
 agentslug

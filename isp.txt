@@ -233,6 +233,7 @@ adscanner
 adstxt-worker
 Adstxtaggregator
 adstxt\.com
+Geekyworks IT Solutions Pvt Ltd
 Adyen HttpClient
 AffiliateLabz
 affilimate-puppeteer

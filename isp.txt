@@ -1739,7 +1739,6 @@ IWEB-AS - iWeb Technologies Inc.
 HOSTINGSERVICES-INC
 Hosting Services, Inc.
 Rackspace
-AXCELX-NET - AxcelX Technologies LLC
 DIMENOC - HostDime.com, Inc.
 ONS-COS - Data 102, LLC
 CLOUDRADIUM-ASN - CloudRadium L.L.C
@@ -1879,7 +1878,6 @@ PSWITCH-HK PACSWITCH IP NETWORK
 CLOUDIE-AS-AP Cloudie Limited
 CNNIC-BAIDU-AP Beijing Baidu Netcom Science and Technology C
 Afrihost (Pty) Ltd
-AxcelX Technologies LLC
 BT Public Internet Service
 SERVERASTRA-AS
 MELBICOM-EU-AS

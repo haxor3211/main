@@ -1633,7 +1633,6 @@ HIGHWINDS - Highwinds Network Group, Inc.
 ESECUREDATA - eSecureData
 TZULO - tzulo, inc.
 ASGHOSTNET
-AS12876
 HWNG
 UK2NET-AS
 DATACENTER-IP - Datacenter IP, LLC

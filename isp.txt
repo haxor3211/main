@@ -1536,6 +1536,7 @@ YahooMailProxy
 YahooYSMcm
 YandeG
 Yandex(?!Search)
+DXC US Latin America Corporation
 yanga
 IDNIC-FREDY
 yeti

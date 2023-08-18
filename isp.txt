@@ -1535,6 +1535,7 @@ YahooCacheSystem
 YahooMailProxy
 YahooYSMcm
 YandeG
+eWebGuru
 Yandex(?!Search)
 DXC US Latin America Corporation
 yanga

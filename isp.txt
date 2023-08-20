@@ -1535,6 +1535,7 @@ YahooCacheSystem
 YahooMailProxy
 YahooYSMcm
 YandeG
+CJSC Kolomna-Sviaz TV
 eWebGuru
 Yandex(?!Search)
 DXC US Latin America Corporation

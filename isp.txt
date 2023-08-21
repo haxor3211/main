@@ -1544,6 +1544,7 @@ IDNIC-FREDY
 Charter Communications
 yeti
 MVS
+KONSTANT
 Yo-yo
 Yoleo Consumer
 yomins\.com

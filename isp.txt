@@ -1538,6 +1538,7 @@ YandeG
 Unknown
 CJSC Kolomna-Sviaz TV
 LAM A Architecture Construction Company Limited
+CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.
 eWebGuru
 Yandex(?!Search)
 DXC US Latin America Corporation

@@ -1580,6 +1580,8 @@ NTT America, Inc.
 Zemanta Aggregator
 Zend\\\\Http\\\\Client
 OverPlay.Net LP
+Apple
+Apple inc.
 Zend_Http_Client
 Zermelo
 FasthostInternet Ltd

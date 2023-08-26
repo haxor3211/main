@@ -191,6 +191,7 @@ ZmEu
 13TABS
 192\.comAgent
 2GDPR
+ASAHI Net, Inc.
 2ip\.ru
 404enemy
 SURF B.V.

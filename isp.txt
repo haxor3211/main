@@ -1891,7 +1891,7 @@ CORESPACE-DAL - CoreSpace, Inc.
 18779 - EGIHosting
 INCERO - Incero LLC
 ILIKA - velia.net (USA) Inc.
-SERVER-MANIA - B2 Net Solutions Inc.
+B2 Net Solutions Inc.
 PSWITCH-HK PACSWITCH IP NETWORK
 CLOUDIE-AS-AP Cloudie Limited
 CNNIC-BAIDU-AP Beijing Baidu Netcom Science and Technology C

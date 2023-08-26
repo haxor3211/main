@@ -1548,6 +1548,7 @@ DXC US Latin America Corporation
 yanga
 IDNIC-FREDY
 Charter Communications
+Cogent Communication
 yeti
 MVS
 KONSTANT

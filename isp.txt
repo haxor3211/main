@@ -2335,6 +2335,7 @@ Datacenter Luxembourg S.A.
 DataCenter Noord BV
 DataCenter.BZ, LLC
 Digital Absolut Business - Servidor, Virtualizacao, Cluster, Datacenters e Telecomunicacoes
+M-net Telekommunikations GmbH
 China Mobile communications corporation
 OARnet
 Amol Kotkar trading as A K Digital Media

@@ -1653,6 +1653,7 @@ ESECUREDATA - eSecureData
 TZULO - tzulo, inc.
 ASGHOSTNET
 HWNG
+Siamdata Communication Co., ltd.
 UK2NET-AS
 DATACENTER-IP - Datacenter IP, LLC
 RBLHST-NY - Strong Technology, LLC.

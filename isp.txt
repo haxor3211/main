@@ -1784,7 +1784,6 @@ VERSAWEB-ASN - Versaweb, LLC
 Dimenoc Servicos De Informatica Ltda
 THECABLE-STKITTS-01 - The Cable of St. Kitts
 SOFTLAYER - SoftLayer Technologies Inc.
-AS-COLOCROSSING - ColoCrossing
 Leaseweb USA, Inc., Ubiquity Server Solutions Dallas
 Leaseweb USA, Inc.
 GTCOMM - GloboTech Communications

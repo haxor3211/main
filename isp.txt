@@ -1639,7 +1639,6 @@ SERVERS - Servers.com, Inc.
 Servers.com, Inc.
 MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation
 ASN-QUADRANET-GLOBAL - QuadraNet, Inc
-British Telecommunications PLC
 Microsoft Corporation
 ATOM86-AS ATOM86
 ONEANDONE-AS Brauerstrasse 48

@@ -11,7 +11,6 @@ Ovh Sas
 PlusServer GmbH
 Connect Communication
 My Tec Sa
-OVH SAS
 OVH
 OVH US LLC
 Amol Kotkar trading as A K Digital Media
@@ -127,6 +126,7 @@ Nanyang Technological University
 Zscaler Inc.
 Datacamp Limited
 Halliburton Company
+Hetzner Online GmbH
 SpectraIP B.V.
 Nus Information Technology
 Cloudflare

@@ -7,6 +7,20 @@ HostRoyale Technologies
 Chroot Network SRL
 PlusNet plc
 1&1 IONOS SE
+Palo Alto Networks
+Webline Services
+INAP
+Confederação Nacional das Cooperativas do Sicoob
+Shanghai Huajuan Information Technology Co., Ltd.
+Unwired Communications Ltd
+NTT Docomo, inc.
+NTT-ME Corporation
+KI-Services
+JINX CO., LIMITED
+TerraTransit AG
+Amazon Technologies Inc.
+BH Telecom d.d. Sarajevo
+DataCamp Limited
 Ovh Sas
 PlusServer GmbH
 Connect Communication
